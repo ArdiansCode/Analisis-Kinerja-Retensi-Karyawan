@@ -1,0 +1,51 @@
+Employee_ID,Join_Date,Department,Job_Role,Monthly_Salary,Overtime_Hours,Performance_Rating,Years_At_Company,Satisfaction_Level,Left_Company,Salary_Bracket,Resign_Risk
+EMP001,3/15/2021,Engineering,Software Engineer,14500000,12,4,3,4,No,Senior,Safe
+EMP002,1/10/2022,Marketing,Digital Marketer,8500000,8,3,2,3,No,Mid,Safe
+EMP003,5/20/2020,Sales,Account Executive,11000000,25,2,4,2,Yes,Mid,High Risk
+EMP004,2/14/2023,HR,HR Generalist,7500000,5,3,1,4,No,Mid,Safe
+EMP005,11/1/2021,Finance,Financial Analyst,12000000,18,4,3,5,No,Mid,Safe
+EMP006,8/12/2019,Engineering,Data Scientist,18000000,30,5,5,4,No,Senior,Safe
+EMP007,6/18/2022,Engineering,QA Engineer,9500000,10,3,2,2,Yes,Mid,High Risk
+EMP008,5/10/2023,Sales,Sales Representative,8000000,22,3,1,1,Yes,Mid,High Risk
+EMP009,1/15/2020,Marketing,Content Writer,7800000,6,4,4,4,No,Mid,Safe
+EMP010,9/1/2021,Engineering,DevOps Engineer,16000000,28,4,3,3,No,Senior,Safe
+EMP011,11/20/2022,Finance,Accountant,9200000,14,3,2,3,No,Mid,Safe
+EMP012,7/5/2020,Sales,Business Dev,10500000,20,2,3,2,Yes,Mid,High Risk
+EMP013,1/11/2023,HR,Recruiter,7200000,8,3,1,4,No,Mid,Safe
+EMP014,4/22/2021,Engineering,Software Engineer,13500000,15,4,4,4,No,Senior,Safe
+EMP015,8/15/2022,Marketing,SEO Specialist,8200000,10,3,2,3,No,Mid,Safe
+EMP016,10/10/2020,Engineering,Data Scientist,17500000,32,5,5,5,No,Senior,Safe
+EMP017,3/1/2023,Sales,Sales Representative,7900000,18,2,1,2,Yes,Mid,High Risk
+EMP018,6/14/2021,Finance,Financial Analyst,11500000,12,4,3,4,No,Mid,Safe
+EMP019,2/28/2022,Engineering,QA Engineer,9800000,15,3,2,3,No,Mid,Safe
+EMP020,12/1/2020,Marketing,Digital Marketer,8800000,9,3,3,4,No,Mid,Safe
+EMP021,2/10/2021,Engineering,Software Engineer,14200000,14,4,3,3,No,Senior,Safe
+EMP022,7/22/2022,Sales,Account Executive,11200000,28,3,2,2,Yes,Mid,High Risk
+EMP023,4/15/2023,HR,HR Generalist,7400000,6,3,1,4,No,Mid,Safe
+EMP024,9/5/2020,Finance,Financial Analyst,12500000,20,4,4,4,No,Senior,Safe
+EMP025,12/18/2021,Engineering,DevOps Engineer,15800000,25,4,3,3,No,Senior,Safe
+EMP026,5/11/2022,Engineering,Data Scientist,17000000,28,5,4,4,No,Senior,Safe
+EMP027,8/1/2023,Marketing,Content Writer,7600000,5,3,1,2,Yes,Mid,High Risk
+EMP028,1/20/2021,Sales,Sales Representative,8100000,15,3,2,2,No,Mid,High Risk
+EMP029,3/25/2020,Engineering,QA Engineer,9600000,12,3,3,3,No,Mid,Safe
+EMP030,10/10/2022,Finance,Accountant,9000000,10,3,2,3,No,Mid,Safe
+EMP031,2/18/2023,Engineering,Software Engineer,13800000,18,4,1,4,No,Senior,Safe
+EMP032,7/8/2021,Marketing,SEO Specialist,8400000,12,3,2,3,No,Mid,Safe
+EMP033,11/1/2020,Engineering,Data Scientist,17800000,30,5,4,5,No,Senior,Safe
+EMP034,6/12/2023,Sales,Business Dev,10800000,22,2,1,2,Yes,Mid,High Risk
+EMP035,1/25/2022,HR,Recruiter,7300000,7,3,1,4,No,Mid,Safe
+EMP036,5/14/2021,Finance,Financial Analyst,12200000,16,4,3,4,No,Senior,Safe
+EMP037,6/30/2020,Engineering,DevOps Engineer,16200000,27,4,4,4,No,Senior,Safe
+EMP038,9/18/2022,Marketing,Digital Marketer,8700000,10,3,2,3,No,Mid,Safe
+EMP039,1/5/2023,Engineering,QA Engineer,9900000,14,3,1,2,Yes,Mid,High Risk
+EMP040,10/11/2021,Sales,Account Executive,11500000,26,3,3,2,No,Mid,High Risk
+EMP041,4/1/2022,Engineering,Software Engineer,14800000,13,4,2,4,No,Senior,Safe
+EMP042,8/15/2020,Finance,Accountant,9300000,12,3,4,3,No,Mid,Safe
+EMP043,7/20/2023,HR,HR Generalist,7700000,5,3,1,4,No,Mid,Safe
+EMP044,3/28/2021,Engineering,Data Scientist,17200000,29,5,3,5,No,Senior,Safe
+EMP045,11/5/2022,Sales,Sales Representative,8200000,19,2,2,2,Yes,Mid,High Risk
+EMP046,2/11/2020,Marketing,Content Writer,7900000,8,4,4,4,No,Mid,Safe
+EMP047,5/25/2023,Engineering,DevOps Engineer,15500000,24,4,1,3,No,Senior,Safe
+EMP048,6/8/2022,Engineering,Software Engineer,14000000,16,4,2,3,No,Senior,Safe
+EMP049,12/20/2021,Finance,Financial Analyst,11800000,17,4,3,4,No,Mid,Safe
+EMP050,4/2/2020,Sales,Business Dev,11000000,23,3,4,2,No,Mid,High Risk
